@@ -28,7 +28,7 @@
 
 ## 框架结构
 
-![framework](/img/mybatis-plus-framework.jpg)
+![framework](/img/mybatis-plus-framework.jpg)  
 
 ## 代码托管
 
